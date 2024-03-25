@@ -1,6 +1,6 @@
-# ArabicAIHub
+# ArabicGPTLab
 
-Welcome to ArabicAIHub, where we harness the power of artificial intelligence to address various Arabic language use cases and develop innovative solutions for the Muslim community. Our organization is dedicated to advancing Natural Language Processing (NLP) technologies tailored specifically for Arabic, as well as building AI applications that serve the needs of individuals seeking answers to religious questions.
+Welcome to ArabicGPTLab, where we harness the power of artificial intelligence to address various Arabic language use cases and develop innovative solutions for the Muslim community. Our organization is dedicated to advancing Natural Language Processing (NLP) technologies tailored specifically for Arabic, as well as building AI applications that serve the needs of individuals seeking answers to religious questions.
 
 ## About Us
 
